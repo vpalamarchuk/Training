@@ -1,2 +1,2 @@
 # Training
-Training repository
+Training repository (vpa)
